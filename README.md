@@ -7,7 +7,7 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 
 
 ## Procedure:
-```
+
 Step 1 :
 Include the required files and library.
 
@@ -31,7 +31,7 @@ Declare Main method/function . In the Main method , set up the device and initia
 
 Step 8 :
 Atlast , free the host and device memory then reset the device and check for results.
-```
+
 ## Program
 ```
 Developed By : D.vishnu vardhan reddy
