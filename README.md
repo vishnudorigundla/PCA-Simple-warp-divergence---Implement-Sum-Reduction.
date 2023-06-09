@@ -329,7 +329,7 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 ![vishnu](https://github.com/vishnudorigundla/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94175324/19576bce-a96d-41e0-a050-ffa702a57cb5)
 
 
-![Uploading vis.png…]()
+![vis](https://github.com/vishnudorigundla/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94175324/e8659e49-46ff-4afd-af9a-a524a87a97aa)
 
 
 
